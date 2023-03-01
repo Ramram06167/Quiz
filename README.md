@@ -1,1 +1,6 @@
 # Quiz
+
+
+Ramirez
+Exclamador
+Gucela
