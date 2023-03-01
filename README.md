@@ -1,6 +1,8 @@
 # Quiz
 
 
-Ramirez
-Exclamador
-Gucela
+heights
+dark
+snakes
+durian
+slime
